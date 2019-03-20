@@ -1,5 +1,4 @@
 ﻿# 提问的智慧
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
 **How To Ask Questions The Smart Way**
 
@@ -12,12 +11,6 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
 
 本中文指南是基于原文 3.10 版以及 2010 年由 [Gasolin](https://github.com/gasolin) 所翻译版本的最新翻译；
-
-协助指出翻译问题，**请[发 Issue](https://github.com/ryanhanwu/smartquestions/issues/new)，或直接[发 Pull Request](https://github.com/ryanhanwu/smartquestions/compare/) 给我。**
-
-本文另有[繁體中文版](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)。
-
-## [原文版本历史](https://github.com/ryanhanwu/smartquestions/blob/master/history.md)
 
 ## 目录
   * [声明](#声明)
